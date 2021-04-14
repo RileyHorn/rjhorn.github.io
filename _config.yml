@@ -10,3 +10,9 @@ description: Professional Portfolio
 ##["true" or "false" to indicate whether to provide a download URL]
 ##google_analytics: 
 ##[Your Google Analytics tracking ID]
+
+##Jekyll Configuration
+markdown: GFM
+##Markdown can be set to kramdown or GFM (Github Flavored Markdown)
+highlighter: rouge
+##highlighter can be set to different colors
