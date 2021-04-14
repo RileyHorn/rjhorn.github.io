@@ -139,7 +139,8 @@ a:hover {
     color: #8c8c8c; }
 
 .quote {
-  background: url(../img/cabin_lake.jpg);
+  /*background: url(../img/cabin_lake.jpg);*/
+  backgroud: url(https://rjhorn.github.io/img/cabin_lake.jpg);
   padding: 20px 0px;
   margin-top: 120px; }
   .quote h1 {
